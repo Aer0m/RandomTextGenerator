@@ -1,0 +1,5 @@
+C:\Users\Sekira-Andy\source\repos\TextLib\TextLib\obj\Debug\TextLib.csproj.CoreCompileInputs.cache
+C:\Users\Sekira-Andy\source\repos\TextLib\TextLib\bin\Debug\TextLib.dll
+C:\Users\Sekira-Andy\source\repos\TextLib\TextLib\bin\Debug\TextLib.pdb
+C:\Users\Sekira-Andy\source\repos\TextLib\TextLib\obj\Debug\TextLib.dll
+C:\Users\Sekira-Andy\source\repos\TextLib\TextLib\obj\Debug\TextLib.pdb
